@@ -1,1 +1,1 @@
-Fork of James Webber personal [website](http://ja.meswebber.com) who integraetd [Glasseye](http://coppeliamla.github.io/glasseye/glasseye_markdownExample/demo.html) and [Lektor](https://www.getlektor.com/). Currently, contains his content but I'm optimistic I'll replace with my own.
+James Webber personal [website](http://ja.meswebber.com) fork who integrated [Glasseye](https://github.com/coppeliaMLA/glasseye) into [Lektor](https://www.getlektor.com/). Currently, the website contains his content but I'm optimistic that I'll replace with my own.
